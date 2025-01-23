@@ -18,7 +18,7 @@ Welcome to the WARS! This Discord bot is designed to streamline the management o
 - **Reminders**
 
 ### Administration
-- **Role-Based Permissions**: Restrict bot commands to specific roles, such as alliance leaders and officers.
+- **Role-Based Permissions**
 
 ## Other
 - **Commands to see Stats of Players**
